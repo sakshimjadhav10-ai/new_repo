@@ -1,0 +1,7 @@
+print("sakshi you are so pretty")
+a=1
+b=3
+if(a>b):
+ print("a is bigger")
+else:
+ print("b is greater")
