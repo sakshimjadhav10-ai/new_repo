@@ -1,0 +1,39 @@
+ python testing.py                                               
+   4 ls                                                              
+   5 ls -l                                                           
+   6 ls -a                                                           
+   7 ls                                                              
+   8 ls-a                                                            
+ ls                                                              
+ rm testing.py                                                   
+  11 git init                                                        
+  12 ls                                                              
+  13 dir                                                             
+  14 git init                                                        
+  15 git init                                                        
+  16 & C:\Users\Admin\AppData\Local\Programs\Python\Python313\pyth...
+  17 git status                                                      
+  18 git add testing.py                                              
+  19 ls                                                              
+  20 git status                                                      
+  21 git add .                                                       
+  22 ls                                                              
+  23 git status                                                      
+  24 git commit -m "adding this file"                                
+  25 git status                                                      
+  26 rm testing.py                                                   
+  27 ls                                                              
+  28 git status                                                      
+  29 git add testing.py                                              
+  30 ls                                                              
+  31 git restore testing.py                                          
+  32 ls                                                              
+  33 git restore testing.py                                          
+  34 git restore testing.py                                          
+  35 git commit -a                                                   
+  3 git add testing.py                                              
+ git rm --chache                                                 
+ git init                                                        
+ ls                                                              
+  git restore testing.py                                          
+     
